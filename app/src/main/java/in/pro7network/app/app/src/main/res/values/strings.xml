@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PRO 7 NETWORK</string>
+    <string name="company_name">PRO 7 NETWORK MARKETING INDIA PVT LTD</string>
+    <string name="welcome">Welcome to PRO 7 NETWORK</string>
+    <string name="customer">Customer</string>
+    <string name="admin">Admin</string>
+    <string name="digital_id">Digital ID Card</string>
+    <string name="products">Our Products</string>
+    <string name="contact">Contact Us</string>
+</resources>
